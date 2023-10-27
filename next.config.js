@@ -5,7 +5,7 @@ const nextConfig = {
         serverActions: true,
     },
     images: {
-        domains: ['farshaxan.blr1.cdn.digitaloceanspaces.com', 'images.unsplash.com', 'www.ecpgr.cgiar.org'],
+        domains: ['farshaxan.blr1.cdn.digitaloceanspaces.com', 'images.unsplash.com', 'www.ecpgr.cgiar.org', 'silver-restaurant.vercel.app'],
     },
 }
 
