@@ -35,7 +35,7 @@ const Item = ({ item }: { item: ItemProp }) => {
         />
       </figure>
       <div className='card-body py-2 px-1.5 w-[55%]'>
-        <h3 className='font-bold'>{item.item}</h3>
+        <h3 className='font-bold text-my-primary'>{item.item}</h3>
         <p className='font-bold text-sm'>
           {typeof newPriceFormat === 'number'
             ? `$${newPriceFormat}`

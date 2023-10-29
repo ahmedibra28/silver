@@ -9,7 +9,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'my-primary': '#0089e7'
+        'my-primary': '#c69260'
       },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
@@ -24,7 +24,7 @@ module.exports = {
       {
         light: {
           ...require("daisyui/src/theming/themes")["[data-theme=light]"],
-          "primary": "#0089e7",
+          "primary": "#c69260",
           "primary-hover": "#35a2eb",
           "primary-focus": "mediumblue",
         },

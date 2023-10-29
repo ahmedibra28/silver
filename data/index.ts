@@ -151,7 +151,7 @@ const data = [
     item: 'Fresh garden salad',
     description:
       'Assorted farm fresh salad vegetables with bread and salad dressing, ',
-    price: 6,
+    price: 4,
   },
   {
     category: 'SALADS',
@@ -244,6 +244,7 @@ const data = [
   {
     category: 'ARABIC CUISINE',
     item: 'Fajita chicken',
+    price: 6,
   },
   {
     category: 'ARABIC CUISINE',
@@ -481,27 +482,27 @@ const data = [
     price: 8,
   },
   {
-    category: 'PIZZA MENU:',
+    category: 'PIZZA MENU',
     item: 'Large Pizza ',
     price: 15,
   },
   {
-    category: 'PIZZA MENU:',
+    category: 'PIZZA MENU',
     item: 'MediumPizza ',
     price: 12,
   },
   {
-    category: 'PIZZA MENU:',
+    category: 'PIZZA MENU',
     item: 'Small Pizza ',
     price: 8,
   },
   {
-    category: 'PIZZA MENU:',
+    category: 'PIZZA MENU',
     item: 'Extra cheese ',
     price: 1,
   },
   {
-    category: 'PIZZA MENU:',
+    category: 'PIZZA MENU',
     item: 'Pizza magharita bassilico large',
     description:
       'Tomato, provencale sauce, diced pineapple, sweetcorn, beef pepperoni, mozzarella cheese',
@@ -509,7 +510,7 @@ const data = [
     price: 15,
   },
   {
-    category: 'PIZZA MENU:',
+    category: 'PIZZA MENU',
     item: 'Hawaiian pizza Large',
     description:
       'Provencale sauce, diced pineapple, sweetcorn, beef pepperoni, mozzarella cheese',
@@ -517,55 +518,55 @@ const data = [
     price: 15,
   },
   {
-    category: 'PIZZA MENU:',
+    category: 'PIZZA MENU',
     item: 'Vegetarian pizza ',
     description:
       'Provencale sauce, artichoke, sliced onion, sliced mushrooms, fresh diced tomatoes, spinach, zucchini, fresh diced green pepper, black olives mozzarella cheese',
     size: 'L-15, M-12, S-8',
   },
   {
-    category: 'PIZZA MENU:',
+    category: 'PIZZA MENU',
     item: 'Four seasons pizza ',
     description:
       'Provencale sauce, sliced onions, fresh diced green pepper, sliced mushrooms, pepperoni, fresh diced tomatoes, and mozzarella cheese',
     size: 'L-15, M-12, S-8',
   },
   {
-    category: 'PIZZA MENU:',
+    category: 'PIZZA MENU',
     item: 'Chicken barbeque pizza ',
     description:
       'Provencale sauce, sliced onions, sliced mushrooms, diced chicken, sweet barbeque sauce and mozzarella cheese',
     size: 'L-15, M-12, S-8',
   },
   {
-    category: 'PIZZA MENU:',
+    category: 'PIZZA MENU',
     item: 'Chicken mushroom pizza',
     description:
       'Provencale sauce, sliced onions, sliced mushrooms, diced chicken, sweet barbeque sauce and mozzarella cheese',
     size: 'L-15, M-12, S-8',
   },
   {
-    category: 'PIZZA MENU:',
+    category: 'PIZZA MENU',
     item: 'Sweet and sour chicken',
     description:
       'Provencale sauce, diced chicken diced pineapple, fresh diced green pepper sweet n’ sour sauce, mozzarella cheese',
     size: 'L-15, M-12, S-8',
   },
   {
-    category: 'PIZZA MENU:',
+    category: 'PIZZA MENU',
     item: 'Club pizza',
     description:
       'Provencale sauce, diced chicken, ground beef, gravey rave sauce, mozzarella cheese',
     size: 'L-15, M-12, S-8',
   },
   {
-    category: 'PIZZA MENU:',
+    category: 'PIZZA MENU',
     item: 'Something meaty pizza',
     description:
       'Provencale sauce, pepperoni slices, diced tomatoes, green pepper, black olives, mozzarella cheese',
   },
   {
-    category: 'PIZZA MENU:',
+    category: 'PIZZA MENU',
     item: 'Calzone pizza  (fold over)',
     description:
       'Cream cheese, sliced onions, sliced mushrooms, pepperoni slices, diced tomatoes, green pepper, black olives, mozzarella cheese',
@@ -606,7 +607,7 @@ const data = [
     category: 'INDIAN CUISINE',
     item: 'Fish Tikka',
     price: 8,
-    image: 'Copy of DSC09391.JPG',
+    image: 'Copy of DSC09360.JPG',
   },
   {
     category: 'INDIAN CUISINE',
@@ -645,12 +646,6 @@ const data = [
     item: 'Reshmi kabab',
     price: 10,
     image: 'Copy of DSC09400.JPG',
-  },
-  {
-    category: 'INDIAN CUISINE',
-    item: 'Butter chicken',
-    price: 8,
-    image: 'Copy of DSC09405.JPG',
   },
   {
     category: 'INDIAN CUISINE',
