@@ -19,7 +19,7 @@ const data = [
     category: 'BREAKFAST',
     item: 'Spanish omelet with baked beans',
     price: 5,
-    image: '283A2201.JPG',
+    image: '283A2201.jpg',
     description: 'two eggs, green pepper, onions, tomatoes.',
   },
   {
@@ -40,14 +40,14 @@ const data = [
     category: 'SOMALI BREAKFAST',
     item: 'Pumpkin oats',
     price: 3,
-    image: '283A2218.JPG',
+    image: '283A2218.jpg',
     description: 'Pumpkin puree boiled with whole oats',
   },
   {
     category: 'SOMALI BREAKFAST',
     item: 'Plain oat porridge',
     price: 2,
-    image: '283A2216.JPG',
+    image: '283A2216.jpg',
     description: 'Whole healthy oats boiled with milk',
   },
   {
@@ -161,7 +161,7 @@ const data = [
     category: 'SOUPS',
     item: 'Cream of butternut soup',
     price: 5,
-    image: '283A2060.JPG',
+    image: '283A2060.JPG.jpg',
   },
   {
     category: 'SOUPS',
@@ -184,7 +184,7 @@ const data = [
     price: 5,
     image: '283A9858.JPG',
     description:
-      'Assorted farm fresh salad vegetables with bread and salad dressing, ',
+      'Assorted farm fresh salad vegetables with bread and salad dressing,',
   },
   {
     category: 'SALADS',
@@ -198,7 +198,7 @@ const data = [
     category: 'SALADS',
     item: 'Silver Star special Cobb salad',
     price: 8,
-    image: '283A2204.JPG',
+    image: '283A2204.jpg',
     description:
       'Sweetcorn, mixed green leaves, boiled eggs, black olives, avocado, chicken flanks, and beetroot',
   },
@@ -222,7 +222,7 @@ const data = [
     category: 'QUICK BITS AND SAVORY SNACKS',
     item: 'Chicken quesadilla ',
     price: 6,
-    image: '283A2189.JPG',
+    image: '283A2189.jpg',
     description:
       'Braised chicken with jalapeno, onion, green pepper and Mexican spices in tortilla',
   },
@@ -252,7 +252,7 @@ const data = [
     category: 'QUICK BITS AND SAVORY SNACKS',
     item: 'Buffalo chicken wings ',
     price: 5,
-    image: '283A2206.JPG',
+    image: '283A2206.jpg',
     description:
       'Marinated bread crumbed chicken wings, served with salad and chips',
   },
@@ -260,7 +260,7 @@ const data = [
     category: 'QUICK BITS AND SAVORY SNACKS',
     item: 'BBQ. Chicken wings',
     price: 5,
-    image: '283A2213.JPG',
+    image: '283A2213.jpg',
     description: 'crispy, marinated chicken wings tossed on bbq. Sauce.',
   },
   {
@@ -338,7 +338,7 @@ const data = [
     category: 'I LOVE PASTA',
     item: 'Pasta al forno (béchamel) ',
     price: 10,
-    image: '283A2049.JPG',
+    image: '283A2049.JPG.jpg',
     description:
       'Oven cooked pasta with beef Bolognese sauce, béchamel and gratinated cheese',
   },
@@ -391,7 +391,7 @@ const data = [
     category: 'LUNCH AND DINNER HOUSE SPECIALITIES',
     item: 'Swahili coconut fish ',
     price: 12,
-    image: '283A2209.JPG',
+    image: '283A2209.jpg',
     description:
       'Braised fish in coconut and ginger mild spices with an accompaniment of your choice',
   },
