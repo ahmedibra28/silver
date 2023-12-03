@@ -30,7 +30,9 @@ export default function Category() {
           {groups.map((group, i: number) => (
             <Link
               key={i}
-              href={`/items#${itemId(group[0].category)}`}
+              href={`/silver-star-restaurant/items#${itemId(
+                group[0].category,
+              )}`}
               className='btn btn-xs btn-ghost text-gray-800 rounded-full underline'
             >
               {group[0].category}
