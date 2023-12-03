@@ -858,6 +858,7 @@ const data = [
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Ice espresso',
+    price: 3,
     image: '283A2737.JPG',
   },
   {
@@ -941,6 +942,7 @@ const data = [
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Ice toffee nut latte',
+    price: 3,
     image: '1I6A3071.JPG',
   },
   {
