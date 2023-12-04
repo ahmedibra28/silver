@@ -1367,3 +1367,18 @@ export const groupItemsByCategory = () => {
     }, {}),
   )
 }
+
+export const groupItemsByCategorySlug = (slug: string) => {
+  const slugToTitle = slug?.replaceAll('-', ' ')?.toLowerCase()
+
+  const items = getItemsByCategory(slugToTitle)
+
+  return Object.values(
+    items.reduce((acc: any, item) => {
+      const { category } = item
+      acc[category] = acc[category] || []
+      acc[category].push(item)
+      return acc
+    }, {}),
+  )
+}
