@@ -47,7 +47,7 @@ export default function Category() {
             style={{ scrollMarginTop: '100px' }}
             id={itemId(group[0].category)}
           >
-            <h2 className='uppercase text-gray-800 font-bold'>
+            <h2 className='uppercase text-gray-100 font-bold'>
               {group[0].category}
             </h2>
             {group.map((item, i: number) => (

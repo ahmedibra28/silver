@@ -23,6 +23,22 @@ const data = [
     description: 'two eggs, green pepper, onions, tomatoes.',
   },
   {
+    category: 'BREAKFAST',
+    item: 'Grilled steak and egg',
+    price: 6,
+    image: '283A2133.JPG',
+    description:
+      'Grilled steak or egg, Served with lyonnaise potatoes baked beans and toast',
+  },
+  {
+    category: 'BREAKFAST',
+    item: 'Grilled chicken and egg',
+    price: 6,
+    image: '283A2130.JPG',
+    description:
+      'Grilled steak or egg, Served with lyonnaise potatoes baked beans and toast',
+  },
+  {
     category: 'SOMALI BREAKFAST',
     item: 'kalaankal',
     price: 5,
@@ -78,22 +94,6 @@ const data = [
     image: '283A2074.JPG',
     description:
       'Large serving of home fries topped with cheese, guacamole and salsa',
-  },
-  {
-    category: 'SOMALI BREAKFAST',
-    item: 'Grilled steak',
-    price: 6,
-    image: '283A2133.JPG',
-    description:
-      'Grilled steak or egg, Served with lyonnaise potatoes baked beans and toast',
-  },
-  {
-    category: 'SOMALI BREAKFAST',
-    item: 'Grilled Chicken',
-    price: 6,
-    image: '283A2130.JPG',
-    description:
-      'Grilled steak or egg, Served with lyonnaise potatoes baked beans and toast',
   },
   {
     category: 'SIDES',
@@ -236,8 +236,8 @@ const data = [
   },
   {
     category: 'QUICK BITS AND SAVORY SNACKS',
-    item: 'samosa ',
-    price: 5,
+    item: 'Samoosa 1 peace ',
+    price: 1,
     image: '283A2065.JPG',
     description: 'meat  or fish',
   },
@@ -318,7 +318,7 @@ const data = [
     category: 'ARABIC CUISINE',
     item: 'Farafel',
     price: 4,
-    image: '283A9889.JPG',
+    image: 'Farafel.webp',
     description: 'chick pees, garlic, oil, paprika, tahinna, deep fried.',
   },
   {
@@ -346,7 +346,7 @@ const data = [
     category: 'I LOVE PASTA',
     item: 'Penne alfredo ',
     price: 10,
-    image: 'Copy of DSC09482.JPG',
+    image: 'DSC09482.JPG',
     description: 'Penne pasta in creamy mushroom sauce, chicken and garlic',
   },
   {
@@ -361,7 +361,7 @@ const data = [
     category: 'I LOVE PASTA',
     item: 'Spaghetti bolognaise ',
     price: 10,
-    image: '283A9890.JPG',
+    image: '1I6A9846.JPG',
     description:
       'Linguine pasta in flavored beef sauce mozzarella and parmesan shavings',
   },
@@ -370,6 +370,7 @@ const data = [
     item: 'lasagna',
     price: 10,
     image: 'Copy of DSC09508.JPG',
+    // image: 'DSC09508.JPG',
   },
   {
     category: 'LUNCH AND DINNER HOUSE SPECIALITIES',
@@ -514,7 +515,7 @@ const data = [
   {
     category: 'PIZZA MENU',
     item: 'Large Pizza ',
-    price: 15,
+    price: 14,
     image: '283A2171.JPG',
   },
   {
@@ -538,7 +539,7 @@ const data = [
   {
     category: 'PIZZA MENU',
     item: 'Pizza magharita bassilico large',
-    size: 'L-15, M-12, S-8',
+    size: 'L-14, M-12, S-8',
     image: '283A2176.JPG',
     description:
       'Tomato, provencale sauce, diced pineapple, sweetcorn, beef pepperoni, mozzarella cheese',
@@ -546,7 +547,7 @@ const data = [
   {
     category: 'PIZZA MENU',
     item: 'Hawaiian pizza Large',
-    size: 'L-15, M-12, S-8',
+    size: 'L-14, M-12, S-8',
     image: '283A2176.JPG',
     description:
       'Provencale sauce, diced pineapple, sweetcorn, beef pepperoni, mozzarella cheese',
@@ -554,7 +555,7 @@ const data = [
   {
     category: 'PIZZA MENU',
     item: 'Vegetarian pizza ',
-    size: 'L-15, M-12, S-8',
+    size: 'L-14, M-12, S-8',
     image: '283A2176.JPG',
     description:
       'Provencale sauce, artichoke, sliced onion, sliced mushrooms, fresh diced tomatoes, spinach, zucchini, fresh diced green pepper, black olives mozzarella cheese',
@@ -562,7 +563,7 @@ const data = [
   {
     category: 'PIZZA MENU',
     item: 'Four seasons pizza ',
-    size: 'L-15, M-12, S-8',
+    size: 'L-14, M-12, S-8',
     image: '283A2176.JPG',
     description:
       'Provencale sauce, sliced onions, fresh diced green pepper, sliced mushrooms, pepperoni, fresh diced tomatoes, and mozzarella cheese',
@@ -570,7 +571,7 @@ const data = [
   {
     category: 'PIZZA MENU',
     item: 'Chicken barbeque pizza ',
-    size: 'L-15, M-12, S-8',
+    size: 'L-14, M-12, S-8',
     image: '283A2176.JPG',
     description:
       'Provencale sauce, sliced onions, sliced mushrooms, diced chicken, sweet barbeque sauce and mozzarella cheese',
@@ -578,7 +579,7 @@ const data = [
   {
     category: 'PIZZA MENU',
     item: 'Chicken mushroom pizza',
-    size: 'L-15, M-12, S-8',
+    size: 'L-14, M-12, S-8',
     image: '283A2176.JPG',
     description:
       'Provencale sauce, sliced onions, sliced mushrooms, diced chicken, sweet barbeque sauce and mozzarella cheese',
@@ -586,7 +587,7 @@ const data = [
   {
     category: 'PIZZA MENU',
     item: 'Sweet and sour chicken',
-    size: 'L-15, M-12, S-8',
+    size: 'L-14, M-12, S-8',
     image: '283A2176.JPG',
     description:
       'Provencale sauce, diced chicken diced pineapple, fresh diced green pepper sweet n’ sour sauce, mozzarella cheese',
@@ -594,7 +595,7 @@ const data = [
   {
     category: 'PIZZA MENU',
     item: 'Club pizza',
-    size: 'L-15, M-12, S-8',
+    size: 'L-14, M-12, S-8',
     image: '283A2176.JPG',
     description:
       'Provencale sauce, diced chicken, ground beef, gravey rave sauce, mozzarella cheese',
@@ -602,7 +603,7 @@ const data = [
   {
     category: 'PIZZA MENU',
     item: 'Something meaty pizza',
-    size: 'L-15, M-12, S-8',
+    size: 'L-14, M-12, S-8',
     image: '283A2176.JPG',
     description:
       'Provencale sauce, pepperoni slices, diced tomatoes, green pepper, black olives, mozzarella cheese',
@@ -651,7 +652,7 @@ const data = [
     category: 'INDIAN CUISINE',
     item: 'Silver special tandoori Platter',
     price: 20,
-    image: 'Copy of DSC09360.JPG',
+    image: 'DSC09360.JPG',
     description:
       'Plater consisting of six types of mixed kebabs including two banjara kebabs,and two malai tikka , two fish tikka, Two Peri Peri Chicken Tikka, Two Mutton Kebab and ,Two Piece Kalmi Kebab Legs…all time your favorite',
   },
@@ -707,7 +708,7 @@ const data = [
     category: 'INDIAN CUISINE',
     item: 'Garlic nan',
     price: 1.5,
-    image: 'Copy of DSC09462.JPG',
+    image: 'DSC09462.JPG',
     description:
       'White flour stuffed garlic and green coriander on a traditional flat bread from India. Normally baked inside hot Tandoor ovens with charcoal or wood fire',
   },
@@ -811,31 +812,25 @@ const data = [
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Cup cakes – vanilla, chocolate, strawbwrry.',
     price: 1.5,
-    image: '1I6A3045.JPG',
+    image: '1I6A3013.JPG',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Swiss roll.',
     price: 3,
-    image: '1I6A3013.JPG',
-  },
-  {
-    category: 'PASTRIES CAKES AND DESSERTS',
-    item: 'Apple pie',
-    price: 4,
     image: '1I6A3030.JPG',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Small doughnuts',
     price: 1,
-    image: '1I6A3019.JPG',
+    image: '1I6A3039.JPG',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Big doughnuts',
     price: 2,
-    image: '1I6A3039.JPG',
+    image: '1I6A3019.JPG',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
