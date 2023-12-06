@@ -30,7 +30,7 @@ export default async function Home() {
           </div>
         </Link>
 
-        <Link
+        {/* <Link
           href='/juba-mall-silver-coffee'
           className='card card-side bg-base-100 shadow-xl'
         >
@@ -48,7 +48,7 @@ export default async function Home() {
               Juba mall silver coffee
             </h2>
           </div>
-        </Link>
+        </Link> */}
       </div>
     </main>
   )
