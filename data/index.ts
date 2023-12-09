@@ -244,7 +244,7 @@ const data = [
   {
     category: 'QUICK BITS AND SAVORY SNACKS',
     item: 'Fish fingers. And chips ',
-    price: 10,
+    price: 8,
     image: '283A2071.JPG',
     description: 'Served with salad and tartar sauce',
   },
@@ -266,7 +266,7 @@ const data = [
   {
     category: 'ARABIC CUISINE',
     item: 'Shuwarma Arabia ',
-    price: 5,
+    price: 6,
     image: 'Copy of DSC09526.JPG',
     description:
       'arabian spiced chicken flame grilled, served with vegetables on a tortilla',
@@ -375,7 +375,7 @@ const data = [
   {
     category: 'LUNCH AND DINNER HOUSE SPECIALITIES',
     item: 'Grilled Chicken',
-    price: 12,
+    price: 10,
     image: '1I6A9839.JPG',
     description:
       'Herb marinated chicken breast, served with vegetables and accompaniments of your choice',
@@ -383,7 +383,7 @@ const data = [
   {
     category: 'LUNCH AND DINNER HOUSE SPECIALITIES',
     item: 'Schnitzel al Florentine ',
-    price: 12,
+    price: 10,
     image: '283A2143.JPG',
     description:
       'Crispy bread crumbed chicken, served with spinach and pepper sauce and an accompaniment of your choice',
@@ -391,7 +391,7 @@ const data = [
   {
     category: 'LUNCH AND DINNER HOUSE SPECIALITIES',
     item: 'Swahili coconut fish ',
-    price: 12,
+    price: 8,
     image: '283A2209.jpg',
     description:
       'Braised fish in coconut and ginger mild spices with an accompaniment of your choice',
@@ -399,7 +399,7 @@ const data = [
   {
     category: 'LUNCH AND DINNER HOUSE SPECIALITIES',
     item: 'Grilled fish',
-    price: 12,
+    price: 10,
     image: '1I6A9843.JPG',
     description:
       'herb marinated fish fillets served with the accompaniments of your choice and fresh slad tartare sauce',
@@ -407,7 +407,7 @@ const data = [
   {
     category: 'LUNCH AND DINNER HOUSE SPECIALITIES',
     item: 'Grilled cod ',
-    price: 12,
+    price: 8,
     image: '1I6A9834.JPG',
     description:
       'Grilled cod fish with onions, tomatoes, black olives, green pepper emulsion on a potato, lettuce pumpkin and feta cheese salad',
@@ -430,7 +430,7 @@ const data = [
   {
     category: 'LUNCH AND DINNER HOUSE SPECIALITIES',
     item: 'Grilled prime of beef fillet ',
-    price: 12,
+    price: 10,
     image: '1I6A9827.JPG',
     description:
       'Rubbed beef fillet with secret spices grilled to perfection and served with creamy pepper sauce, vegetables and accompaniments of your choice',
@@ -853,7 +853,7 @@ const data = [
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Ice espresso',
-    price: 3,
+    price: 2,
     image: '283A2737.JPG',
   },
   {
@@ -1003,31 +1003,31 @@ const data = [
   {
     category: 'The frappe',
     item: 'Silver frappe',
-    price: 3,
+    price: 4,
     image: '283A2826.JPG',
   },
   {
     category: 'The frappe',
     item: 'Caremeal frappe',
-    price: 3,
+    price: 4,
     image: '283A2829.JPG',
   },
   {
     category: 'The frappe',
     item: 'Chocolate frappe',
-    price: 3,
+    price: 4,
     image: '283A2851.JPG',
   },
   {
     category: 'The frappe',
     item: 'Vanilla frappe',
-    price: 3,
+    price: 4,
     image: '283A2847.JPG',
   },
   {
     category: 'The frappe',
-    item: 'Lotus Frape',
-    price: 3,
+    item: 'Lotus Frappe',
+    price: 4,
     image: '283A2841.JPG',
   },
   {
@@ -1082,7 +1082,7 @@ const data = [
     category: 'The mojito',
     item: 'Mojito raspberry',
     price: 3,
-    image: '283A2873.JPG',
+    image: '283A2877.JPG',
   },
   {
     category: 'The mojito',
@@ -1112,7 +1112,7 @@ const data = [
     category: 'The milk shake',
     item: 'Silver milk shake',
     price: 4,
-    image: '283A2880.JPG',
+    image: '283A2780.JPG',
   },
   {
     category: 'The milk shake',
@@ -1159,13 +1159,13 @@ const data = [
   {
     category: 'Hot Coffee',
     item: 'Espresso con panna',
-    price: 2,
+    price: 2.5,
     image: '283A2913.JPG',
   },
   {
     category: 'Hot Coffee',
     item: 'Espresso affogato',
-    price: 2,
+    price: 2.5,
     image: '283A2919.JPG',
   },
   {
@@ -1272,13 +1272,13 @@ const data = [
   },
   {
     category: 'Limon',
-    item: 'Limon Stropy',
+    item: 'Limon Strowberry',
     price: 3,
     image: '283A2765.JPG',
   },
   {
     category: 'Limon',
-    item: 'Limon Rubby',
+    item: 'Limon Rubbery refresh',
     price: 3,
     image: '283A2775.JPG',
   },
@@ -1314,7 +1314,7 @@ const data = [
   },
   {
     category: 'Limon',
-    item: 'Limon Pine Apple',
+    item: 'Limon Pine Apple Sangria',
     price: 3,
     image: '283A2773.JPG',
   },
