@@ -736,6 +736,31 @@ const data = [
     description:
       'Flour mixed salt and sugar Triangle shaped flatbread made from wheat flour and cooked in a pan',
   },
+
+  {
+    category: 'INDIAN CUISINE',
+    item: 'Reshmi Kabab',
+    price: 8,
+    image: 'Copy of DSC09400.JPG',
+    description: 'Recipe for chicken reshmi kaba',
+  },
+  {
+    category: 'INDIAN CUISINE',
+    item: 'Silver mixed tandoori Platter',
+    price: 10,
+    image: 'Copy of DSC09360.jpg',
+    description:
+      'chicken breast 6 pic and marinated yogurt, salt.sugur,and Indian spices ginger garlic paste    and egg white sarv with sugar syrup',
+  },
+  {
+    category: 'INDIAN CUISINE',
+    item: 'Silver special tandoori Platter',
+    price: 20,
+    image: 'Copy of DSC09382.JPG',
+    description:
+      'Plater consisting of six types of mixed kebabs including two banjara kebabs,and two malai tikka , two fish tikka, Two Peri Peri Chicken Tikka, Two Mutton Kebab and ,Two Piece Kalmi Kebab Legs…all time your favorite',
+  },
+
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Vanilla cake (eggs)',
