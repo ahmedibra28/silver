@@ -56,7 +56,7 @@ export default async function Home() {
       img: imageUrl('1I6A3013.JPG'),
     },
     {
-      label: 'THE MILK SHAKE',
+      label: 'MILK SHAKE',
       img: imageUrl('283A2759.JPG'),
     },
     {
@@ -64,15 +64,15 @@ export default async function Home() {
       img: imageUrl('283A2792 (1).JPG'),
     },
     {
-      label: 'THE SMOOTHIE',
+      label: 'SMOOTHIE',
       img: imageUrl('283A2813.JPG'),
     },
     {
-      label: 'THE FRAPPE',
+      label: 'FRAPPE',
       img: imageUrl('283A2851.JPG'),
     },
     {
-      label: 'THE MOJITO',
+      label: 'MOJITO',
       img: imageUrl('283A2858.JPG'),
     },
     {

@@ -370,7 +370,6 @@ const data = [
     item: 'lasagna',
     price: 10,
     image: 'Copy of DSC09508.JPG',
-    // image: 'DSC09508.JPG',
   },
   {
     category: 'LUNCH AND DINNER HOUSE SPECIALITIES',
@@ -966,151 +965,151 @@ const data = [
     image: '1I6A3071.JPG',
   },
   {
-    category: 'The smoothie',
+    category: 'smoothie',
     item: 'Silver Smoothie',
     price: 3,
     image: '283A2813.JPG',
   },
   {
-    category: 'The smoothie',
+    category: 'smoothie',
     item: 'Smoothie Blueberry',
     price: 3,
     image: '283A2797.JPG',
   },
   {
-    category: 'The smoothie',
+    category: 'smoothie',
     item: 'Smoothie Pineapple',
     price: 3,
     image: '283A2806.JPG',
   },
   {
-    category: 'The smoothie',
+    category: 'smoothie',
     item: 'Smoothie Strawberry',
     price: 3,
     image: '283A2804.JPG',
   },
   {
-    category: 'The smoothie',
+    category: 'smoothie',
     item: 'Smoothie passion fruit',
     price: 3,
     image: '283A2806.JPG',
   },
   {
-    category: 'The smoothie',
+    category: 'smoothie',
     item: 'Smoothie green apple',
     price: 3,
     image: '283A2812.JPG',
   },
   {
-    category: 'The smoothie',
+    category: 'smoothie',
     item: 'Smoothie kiwi',
     price: 3,
     image: '283A2812.JPG',
   },
   {
-    category: 'The smoothie',
+    category: 'smoothie',
     item: 'Smoothie cherry',
     price: 3,
     image: '283A2813.JPG',
   },
   {
-    category: 'The smoothie',
+    category: 'smoothie',
     item: 'Smoothie peach',
     price: 3,
     image: '283A2806.JPG',
   },
   {
-    category: 'The smoothie',
+    category: 'smoothie',
     item: 'Smoothie Mango',
     price: 3,
     image: '283A2806.JPG',
   },
   {
-    category: 'The frappe',
+    category: 'frappe',
     item: 'Silver frappe',
     price: 4,
     image: '283A2826.JPG',
   },
   {
-    category: 'The frappe',
+    category: 'frappe',
     item: 'Caremeal frappe',
     price: 4,
     image: '283A2829.JPG',
   },
   {
-    category: 'The frappe',
+    category: 'frappe',
     item: 'Chocolate frappe',
     price: 4,
     image: '283A2851.JPG',
   },
   {
-    category: 'The frappe',
+    category: 'frappe',
     item: 'Vanilla frappe',
     price: 4,
     image: '283A2847.JPG',
   },
   {
-    category: 'The frappe',
+    category: 'frappe',
     item: 'Lotus Frappe',
     price: 4,
     image: '283A2841.JPG',
   },
   {
-    category: 'The mojito',
+    category: 'mojito',
     item: 'Silver Mojito',
     price: 3,
     image: '283A2855.JPG',
   },
   {
-    category: 'The mojito',
+    category: 'mojito',
     item: 'Mojito Strawberry',
     price: 3,
     image: '283A2858.JPG',
   },
   {
-    category: 'The mojito',
+    category: 'mojito',
     item: 'Mojito Blueberry',
     price: 3,
     image: '283A2862.JPG',
   },
   {
-    category: 'The mojito',
+    category: 'mojito',
     item: 'Mojito passion fruit',
     price: 3,
     image: '283A2873.JPG',
   },
   {
-    category: 'The mojito',
+    category: 'mojito',
     item: 'Mojito Pineapple',
     price: 3,
     image: '283A2873.JPG',
   },
   {
-    category: 'The mojito',
+    category: 'mojito',
     item: 'Mojito peach',
     price: 3,
     image: '283A2873.JPG',
   },
   {
-    category: 'The mojito',
+    category: 'mojito',
     item: 'Mojito green apple',
     price: 3,
     image: '283A2869.JPG',
   },
   {
-    category: 'The mojito',
+    category: 'mojito',
     item: 'Mojito kiwi',
     price: 3,
     image: '283A2869.JPG',
   },
   {
-    category: 'The mojito',
+    category: 'mojito',
     item: 'Mojito raspberry',
     price: 3,
     image: '283A2877.JPG',
   },
   {
-    category: 'The mojito',
+    category: 'mojito',
     item: 'Mojito Mango',
     price: 3,
     image: '283A2873.JPG',
@@ -1134,37 +1133,37 @@ const data = [
     image: '283A2880.JPG',
   },
   {
-    category: 'The milk shake',
+    category: 'milk shake',
     item: 'Silver milk shake',
     price: 4,
     image: '283A2780.JPG',
   },
   {
-    category: 'The milk shake',
+    category: 'milk shake',
     item: 'Chocolate milk shake',
     price: 4,
     image: '283A2749.JPG',
   },
   {
-    category: 'The milk shake',
+    category: 'milk shake',
     item: 'Strawberry milk shake',
     price: 4,
     image: '283A2742.JPG',
   },
   {
-    category: 'The milk shake',
+    category: 'milk shake',
     item: 'Louts milk shake',
     price: 4,
     image: '283A2764.JPG',
   },
   {
-    category: 'The milk shake',
+    category: 'milk shake',
     item: 'Oreo milk shake',
     price: 4,
     image: '283A2759.JPG',
   },
   {
-    category: 'The milk shake',
+    category: 'milk shake',
     item: 'Vanila Shake',
     price: 4,
     image: '283A2753.JPG',
@@ -1357,6 +1356,603 @@ const data = [
   },
 ]
 
+const jubbaData = [
+  {
+    category: 'PASTRIES CAKES AND DESSERTS',
+    item: 'Vanilla cake (eggs)',
+    price: 3,
+    image: '283A2958.JPG',
+  },
+  {
+    category: 'PASTRIES CAKES AND DESSERTS',
+    item: 'Plain croissant. (eggs)',
+    price: 2,
+    image: '1I6A3062.JPG',
+  },
+  {
+    category: 'PASTRIES CAKES AND DESSERTS',
+    item: 'Cinnamon $ raisin roll.',
+    price: 3,
+    image: '1I6A3058.JPG',
+  },
+  {
+    category: 'PASTRIES CAKES AND DESSERTS',
+    item: 'Chocolate croissant.',
+    price: 3,
+    image: '1I6A3054.JPG',
+  },
+  {
+    category: 'PASTRIES CAKES AND DESSERTS',
+    item: 'Black forest gateau (egg)',
+    price: 3,
+    image: '283A2944.JPG',
+  },
+  {
+    category: 'PASTRIES CAKES AND DESSERTS',
+    item: 'White forest gateau. (egg)',
+    price: 3,
+    image: '283A2951.JPG',
+  },
+  {
+    category: 'PASTRIES CAKES AND DESSERTS',
+    item: 'Lotus cheese cake',
+    price: 4,
+    image: '283A2952.JPG',
+  },
+  {
+    category: 'PASTRIES CAKES AND DESSERTS',
+    item: 'Tiramisu cheese cake.',
+    price: 4,
+    image: '1I6A2999.JPG',
+  },
+  {
+    category: 'PASTRIES CAKES AND DESSERTS',
+    item: 'Date cake eggless.',
+    price: 4,
+    image: '1I6A3085.JPG',
+  },
+  {
+    category: 'PASTRIES CAKES AND DESSERTS',
+    item: 'Strawberry cake (eggless)',
+    price: 3,
+    image: '283A2948.JPG',
+  },
+  {
+    category: 'PASTRIES CAKES AND DESSERTS',
+    item: 'Marble cake.(eggs)',
+    price: 4,
+    image: '1I6A3045.JPG',
+  },
+  {
+    category: 'PASTRIES CAKES AND DESSERTS',
+    item: 'Black magic',
+    price: 3,
+    image: '1I6A3050.JPG',
+  },
+  {
+    category: 'PASTRIES CAKES AND DESSERTS',
+    item: 'Cup cakes – vanilla, chocolate, strawbwrry.',
+    price: 1.5,
+    image: '1I6A3045.JPG',
+  },
+  {
+    category: 'ICED LATTES',
+    item: 'Ice latte',
+    price: 2.5,
+    image: '1I6A3069.JPG',
+  },
+  {
+    category: 'PASTRIES CAKES AND DESSERTS',
+    item: 'Apple pie',
+    price: 4,
+    image: '1I6A3030.JPG',
+  },
+  {
+    category: 'PASTRIES CAKES AND DESSERTS',
+    item: 'Small doughnuts',
+    price: 1,
+    image: '1I6A3019.JPG',
+  },
+  {
+    category: 'PASTRIES CAKES AND DESSERTS',
+    item: 'Big doughnuts',
+    price: 2,
+    image: '1I6A3039.JPG',
+  },
+  {
+    category: 'PASTRIES CAKES AND DESSERTS',
+    item: 'Carmel cake',
+    price: 3,
+    image: '283A2938.JPG',
+  },
+  {
+    category: 'PASTRIES CAKES AND DESSERTS',
+    item: 'Strawberry  cheese cake ',
+    price: 3,
+    image: '283A2955.JPG',
+  },
+  {
+    category: 'PASTRIES CAKES AND DESSERTS',
+    item: 'Chocolate Cake',
+    price: 3,
+    image: '283A2942.JPG',
+  },
+  {
+    category: 'ICED LATTES',
+    item: 'Ice espresso',
+    price: 2,
+    image: '283A2737.JPG',
+  },
+  {
+    category: 'ICED LATTES',
+    item: 'Ice American',
+    price: 2,
+    image: '1I6A3066.JPG',
+  },
+  {
+    category: 'ICED LATTES',
+    item: 'Ice vanilla latte',
+    price: 2.5,
+    image: '1I6A3071.JPG',
+  },
+  {
+    category: 'ICED LATTES',
+    item: 'Ice Caremeal latte',
+    price: 2.5,
+    image: '1I6A3079.JPG',
+  },
+  {
+    category: 'ICED LATTES',
+    item: 'Ice hazelnut latte',
+    price: 2.5,
+    image: '1I6A3071.JPG',
+  },
+  {
+    category: 'ICED LATTES',
+    item: 'Ice Spanish latte',
+    price: 2.5,
+    image: '1I6A3073.JPG',
+  },
+  {
+    category: 'ICED LATTES',
+    item: 'Ice chocolate latte',
+    price: 2.5,
+    image: '1I6A3078.JPG',
+  },
+  {
+    category: 'ICED LATTES',
+    item: 'Ice Pistachio latte',
+    price: 2.5,
+    image: '1I6A3071.JPG',
+  },
+  {
+    category: 'ICED LATTES',
+    item: 'Ice mocha latte',
+    price: 2.5,
+    image: '1I6A3078.JPG',
+  },
+  {
+    category: 'ICED LATTES',
+    item: 'Ice white mocha latte',
+    price: 2.5,
+    image: '1I6A3073.JPG',
+  },
+  {
+    category: 'ICED LATTES',
+    item: 'Ice cookie latte',
+    price: 2.5,
+    image: '1I6A3071.JPG',
+  },
+  {
+    category: 'ICED LATTES',
+    item: 'Ice popcorn latte',
+    price: 2.5,
+    image: '1I6A3071.JPG',
+  },
+  {
+    category: 'ICED LATTES',
+    item: 'Ice cinnamon latte',
+    price: 2.5,
+    image: '1I6A3071.JPG',
+  },
+  {
+    category: 'ICED LATTES',
+    item: 'Ice toffee nut latte',
+    price: 3,
+    image: '1I6A3071.JPG',
+  },
+  {
+    category: 'SMOOTHIE',
+    item: 'Silver Smoothie',
+    price: 3,
+    image: '283A2813.JPG',
+  },
+  {
+    category: 'SMOOTHIE',
+    item: 'Smoothie Blueberry',
+    price: 3,
+    image: '283A2797.JPG',
+  },
+  {
+    category: 'SMOOTHIE',
+    item: 'Smoothie Pineapple',
+    price: 3,
+    image: '283A2806.JPG',
+  },
+  {
+    category: 'SMOOTHIE',
+    item: 'Smoothie Strawberry',
+    price: 3,
+    image: '283A2804.JPG',
+  },
+  {
+    category: 'SMOOTHIE',
+    item: 'Smoothie passion fruit',
+    price: 3,
+    image: '283A2806.JPG',
+  },
+  {
+    category: 'SMOOTHIE',
+    item: 'Smoothie green apple',
+    price: 3,
+    image: '283A2812.JPG',
+  },
+  {
+    category: 'SMOOTHIE',
+    item: 'Smoothie kiwi',
+    price: 3,
+    image: '283A2812.JPG',
+  },
+  {
+    category: 'SMOOTHIE',
+    item: 'Smoothie cherry',
+    price: 3,
+    image: '283A2813.JPG',
+  },
+  {
+    category: 'SMOOTHIE',
+    item: 'Smoothie peach',
+    price: 3,
+    image: '283A2806.JPG',
+  },
+  {
+    category: 'SMOOTHIE',
+    item: 'Smoothie Mango',
+    price: 3,
+    image: '283A2806.JPG',
+  },
+  {
+    category: 'FRAPPE',
+    item: 'Silver frappe',
+    price: 3,
+    image: '283A2826.JPG',
+  },
+  {
+    category: 'FRAPPE',
+    item: 'Caremeal frappe',
+    price: 3,
+    image: '283A2829.JPG',
+  },
+  {
+    category: 'FRAPPE',
+    item: 'Chocolate frappe',
+    price: 3,
+    image: '283A2851.JPG',
+  },
+  {
+    category: 'FRAPPE',
+    item: 'Vanilla frappe',
+    price: 3,
+    image: '283A2847.JPG',
+  },
+  {
+    category: 'FRAPPE',
+    item: 'Lotus Frape',
+    price: 3,
+    image: '283A2841.JPG',
+  },
+  {
+    category: 'MOJITO',
+    item: 'Silver Mojito',
+    price: 3,
+    image: '283A2855.JPG',
+  },
+  {
+    category: 'MOJITO',
+    item: 'Mojito Strawberry',
+    price: 3,
+    image: '283A2858.JPG',
+  },
+  {
+    category: 'MOJITO',
+    item: 'Mojito Blueberry',
+    price: 3,
+    image: '283A2862.JPG',
+  },
+  {
+    category: 'MOJITO',
+    item: 'Mojito passion fruit',
+    price: 3,
+    image: '283A2873.JPG',
+  },
+  {
+    category: 'MOJITO',
+    item: 'Mojito Pineapple',
+    price: 3,
+    image: '283A2873.JPG',
+  },
+  {
+    category: 'MOJITO',
+    item: 'Mojito peach',
+    price: 3,
+    image: '283A2873.JPG',
+  },
+  {
+    category: 'MOJITO',
+    item: 'Mojito green apple',
+    price: 3,
+    image: '283A2869.JPG',
+  },
+  {
+    category: 'MOJITO',
+    item: 'Mojito kiwi',
+    price: 3,
+    image: '283A2869.JPG',
+  },
+  {
+    category: 'MOJITO',
+    item: 'Mojito raspberry',
+    price: 3,
+    image: '283A2873.JPG',
+  },
+  {
+    category: 'MOJITO',
+    item: 'Mojito Mango',
+    price: 3,
+    image: '283A2873.JPG',
+  },
+  {
+    category: 'ice Tea',
+    item: 'Ice tea lemon',
+    price: 2,
+    image: '283A2883.JPG',
+  },
+  {
+    category: 'ice Tea',
+    item: 'Ice tea peach',
+    price: 2,
+    image: '283A2886.JPG',
+  },
+  {
+    category: 'ice Tea',
+    item: 'Ice tea raspberry',
+    price: 2,
+    image: '283A2880.JPG',
+  },
+  {
+    category: 'Milk SHAKE',
+    item: 'Silver milk shake',
+    price: 4,
+    image: '283A2880.JPG',
+  },
+  {
+    category: 'Milk SHAKE',
+    item: 'Chocolate milk shake',
+    price: 4,
+    image: '283A2749.JPG',
+  },
+  {
+    category: 'Milk SHAKE',
+    item: 'Strawberry milk shake',
+    price: 4,
+    image: '283A2742.JPG',
+  },
+  {
+    category: 'Milk SHAKE',
+    item: 'Louts milk shake',
+    price: 4,
+    image: '283A2764.JPG',
+  },
+  {
+    category: 'Milk SHAKE',
+    item: 'Oreo milk shake',
+    price: 4,
+    image: '283A2759.JPG',
+  },
+  {
+    category: 'Milk SHAKE',
+    item: 'Vanila Shake',
+    price: 4,
+    image: '283A2753.JPG',
+  },
+  {
+    category: 'Hot Coffee',
+    item: 'Espresso',
+    price: 2,
+    image: '283A2892.JPG',
+  },
+  {
+    category: 'Hot Coffee',
+    item: 'Espresso romano',
+    price: 2,
+    image: '283A2911.JPG',
+  },
+  {
+    category: 'Hot Coffee',
+    item: 'Espresso con panna',
+    price: 2,
+    image: '283A2913.JPG',
+  },
+  {
+    category: 'Hot Coffee',
+    item: 'Espresso affogato',
+    price: 2,
+    image: '283A2919.JPG',
+  },
+  {
+    category: 'Hot Coffee',
+    item: 'Espresso macchiato',
+    price: 2,
+    image: '283A2916.JPG',
+  },
+  {
+    category: 'Hot Coffee',
+    item: 'American',
+    price: 2,
+    image: '283A2903.JPG',
+  },
+  {
+    category: 'Hot Coffee',
+    item: 'Cappuccino',
+    price: 2,
+    image: '283A2894.JPG',
+  },
+  {
+    category: 'Hot Coffee',
+    item: 'Latte',
+    price: 2,
+    image: '283A2931.JPG',
+  },
+  {
+    category: 'Hot Coffee',
+    item: 'Vanilla latte',
+    price: 2,
+    image: '283A2924.JPG',
+  },
+  {
+    category: 'Hot Coffee',
+    item: 'Caremeal latte',
+    price: 2,
+    image: '283A2924.JPG',
+  },
+  {
+    category: 'Hot Coffee',
+    item: 'Chocolate latte',
+    price: 2,
+    image: '283A2922.JPG',
+  },
+  {
+    category: 'Hot Coffee',
+    item: 'Hazelnut latte',
+    price: 2,
+    image: '283A2924.JPG',
+  },
+  {
+    category: 'Hot Coffee',
+    item: 'Cinnamon latte',
+    price: 2,
+    image: '283A2921.JPG',
+  },
+  {
+    category: 'Hot Coffee',
+    item: 'Toffee nut latte',
+    price: 2,
+    image: '283A2931.JPG',
+  },
+  {
+    category: 'Hot Coffee',
+    item: 'Cookie latte',
+    price: 2,
+    image: '283A2931.JPG',
+  },
+  {
+    category: 'Hot Coffee',
+    item: 'Lotus latte',
+    price: 2,
+    image: '283A2937.JPG',
+  },
+  {
+    category: 'Hot Coffee',
+    item: 'Popcorn latte',
+    price: 2,
+    image: '283A2931.JPG',
+  },
+  {
+    category: 'Hot Coffee',
+    item: 'Spanish latte',
+    price: 2,
+    image: '283A2921.JPG',
+  },
+  {
+    category: 'Hot Coffee',
+    item: 'Pistachio latte',
+    price: 2,
+    image: '283A2924.JPG',
+  },
+  {
+    category: 'Hot Coffee',
+    item: 'White mocha latte',
+    price: 2,
+    image: '283A2921.JPG',
+  },
+  {
+    category: 'Hot Coffee',
+    item: 'Caremeal macchiato latte',
+    price: 2,
+    image: '283A2928.JPG',
+  },
+  {
+    category: 'Limon',
+    item: 'Limon Stropy',
+    price: 3,
+    image: '283A2765.JPG',
+  },
+  {
+    category: 'Limon',
+    item: 'Limon Rubby',
+    price: 3,
+    image: '283A2775.JPG',
+  },
+  {
+    category: 'Limon',
+    item: 'Limon Passion Fruit',
+    price: 3,
+    image: '283A2773.JPG',
+  },
+  {
+    category: 'Limon',
+    item: 'Limon Jubitcabe puree',
+    price: 3,
+    image: '283A2782.JPG',
+  },
+  {
+    category: 'Limon',
+    item: 'Limon Blueberry',
+    price: 3,
+    image: '283A2787.JPG',
+  },
+  {
+    category: 'Limon',
+    item: 'Limon Kiwi',
+    price: 3,
+    image: '283A2792.JPG',
+  },
+  {
+    category: 'Limon',
+    item: 'Limon Green Apple',
+    price: 3,
+    image: '283A2792.JPG',
+  },
+  {
+    category: 'Limon',
+    item: 'Limon Pine Apple',
+    price: 3,
+    image: '283A2773.JPG',
+  },
+  {
+    category: 'Limon',
+    item: 'Limon Mango',
+    price: 3,
+    image: '283A2773.JPG',
+  },
+  {
+    category: 'Limon',
+    item: 'Limon Sangria',
+    price: 3,
+    image: '283A2801.JPG',
+  },
+]
+
 export const getItems = () => {
   return data.map((item) => ({
     ...item,
@@ -1389,6 +1985,52 @@ export const groupItemsByCategory = () => {
 }
 
 export const groupItemsByCategorySlug = (slug: string) => {
+  const slugToTitle = slug?.replaceAll('-', ' ')?.toLowerCase()
+
+  const items = getItemsByCategory(slugToTitle)
+
+  return Object.values(
+    items.reduce((acc: any, item) => {
+      const { category } = item
+      acc[category] = acc[category] || []
+      acc[category].push(item)
+      return acc
+    }, {}),
+  )
+}
+
+export const getItemsJubba = () => {
+  return jubbaData.map((item) => ({
+    ...item,
+    size: null,
+    image: item?.image
+      ? `https://farshaxan.blr1.cdn.digitaloceanspaces.com/silver/${item.image}`
+      : null,
+  }))
+}
+
+export const getCategoriesJubba = () => {
+  return getItemsJubba().map((item) => item.category)
+}
+
+export const getItemsByCategoryJubba = (category: string) => {
+  return getItemsJubba().filter(
+    (item) => item.category.toLowerCase() === category.toLowerCase(),
+  )
+}
+
+export const groupItemsByCategoryJubba = () => {
+  return Object.values(
+    getItemsJubba().reduce((acc: any, item) => {
+      const { category } = item
+      acc[category] = acc[category] || []
+      acc[category].push(item)
+      return acc
+    }, {}),
+  )
+}
+
+export const groupItemsByCategorySlugJubba = (slug: string) => {
   const slugToTitle = slug?.replaceAll('-', ' ')?.toLowerCase()
 
   const items = getItemsByCategory(slugToTitle)
