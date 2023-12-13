@@ -182,7 +182,7 @@ const data = [
     category: 'SALADS',
     item: 'Fresh garden salad',
     price: 5,
-    image: '283A9858.JPG',
+    image: '283A9858.jpg',
     description:
       'Assorted farm fresh salad vegetables with bread and salad dressing,',
   },
@@ -275,7 +275,7 @@ const data = [
     category: 'ARABIC CUISINE',
     item: 'Philadelphia',
     price: 6,
-    image: 'Copy of DSC09512.JPG',
+    image: 'original DSC09512.JPG',
     description:
       'Meat, Chicken or Fish. Bbq sauce ketchup, sweetcorn, mushrooms',
   },
@@ -383,7 +383,7 @@ const data = [
     category: 'LUNCH AND DINNER HOUSE SPECIALITIES',
     item: 'Schnitzel al Florentine ',
     price: 10,
-    image: '283A2143.JPG',
+    image: '283A2143.jpg',
     description:
       'Crispy bread crumbed chicken, served with spinach and pepper sauce and an accompaniment of your choice',
   },
@@ -651,7 +651,7 @@ const data = [
     category: 'INDIAN CUISINE',
     item: 'Silver special tandoori Platter',
     price: 20,
-    image: 'DSC09360.JPG',
+    image: 'Copy of DSC09360.jpg',
     description:
       'Plater consisting of six types of mixed kebabs including two banjara kebabs,and two malai tikka , two fish tikka, Two Peri Peri Chicken Tikka, Two Mutton Kebab and ,Two Piece Kalmi Kebab Legs…all time your favorite',
   },
@@ -707,7 +707,7 @@ const data = [
     category: 'INDIAN CUISINE',
     item: 'Garlic nan',
     price: 1.5,
-    image: 'DSC09462.JPG',
+    image: 'Copy of DSC09462.png',
     description:
       'White flour stuffed garlic and green coriander on a traditional flat bread from India. Normally baked inside hot Tandoor ovens with charcoal or wood fire',
   },
@@ -715,7 +715,7 @@ const data = [
     category: 'INDIAN CUISINE',
     item: 'Butter nan',
     price: 1.5,
-    image: 'Copy of DSC09462.JPG',
+    image: 'Copy of DSC09462.png',
     description:
       'White flour stuffed black white sesame and green coriander on a traditional flat bread from India. Normally baked inside hot Tandoor ovens with charcoal or wood fire',
   },
@@ -980,7 +980,7 @@ const data = [
     category: 'smoothie',
     item: 'Smoothie Pineapple',
     price: 3,
-    image: '283A2806.JPG',
+    image: '283A2806.jpg',
   },
   {
     category: 'smoothie',
@@ -992,7 +992,7 @@ const data = [
     category: 'smoothie',
     item: 'Smoothie passion fruit',
     price: 3,
-    image: '283A2806.JPG',
+    image: '283A2806.jpg',
   },
   {
     category: 'smoothie',
@@ -1016,13 +1016,13 @@ const data = [
     category: 'smoothie',
     item: 'Smoothie peach',
     price: 3,
-    image: '283A2806.JPG',
+    image: '283A2806.jpg',
   },
   {
     category: 'smoothie',
     item: 'Smoothie Mango',
     price: 3,
-    image: '283A2806.JPG',
+    image: '283A2806.jpg',
   },
   {
     category: 'frappe',
@@ -1052,7 +1052,7 @@ const data = [
     category: 'frappe',
     item: 'Lotus Frappe',
     price: 4,
-    image: '283A2841.JPG',
+    image: '283A2841.jpg',
   },
   {
     category: 'mojito',
@@ -1154,7 +1154,7 @@ const data = [
     category: 'milk shake',
     item: 'Louts milk shake',
     price: 4,
-    image: '283A2764.JPG',
+    image: '283A2764.jpg',
   },
   {
     category: 'milk shake',
@@ -1190,7 +1190,7 @@ const data = [
     category: 'Hot Coffee',
     item: 'Espresso affogato',
     price: 2.5,
-    image: '283A2919.JPG',
+    image: '283A2919.jpg',
   },
   {
     category: 'Hot Coffee',
@@ -1232,7 +1232,7 @@ const data = [
     category: 'Hot Coffee',
     item: 'Chocolate latte',
     price: 2,
-    image: '283A2922.JPG',
+    image: '283A2922.jpg',
   },
   {
     category: 'Hot Coffee',
@@ -1322,19 +1322,19 @@ const data = [
     category: 'Limon',
     item: 'Limon Blueberry',
     price: 3,
-    image: '283A2787.JPG',
+    image: '283A2787.jpg',
   },
   {
     category: 'Limon',
     item: 'Limon Kiwi',
     price: 3,
-    image: '283A2792.JPG',
+    image: '283A2792.jpg',
   },
   {
     category: 'Limon',
     item: 'Limon Green Apple',
     price: 3,
-    image: '283A2792.JPG',
+    image: '283A2792.jpg',
   },
   {
     category: 'Limon',
@@ -1577,7 +1577,7 @@ const jubbaData = [
     category: 'SMOOTHIE',
     item: 'Smoothie Pineapple',
     price: 3,
-    image: '283A2806.JPG',
+    image: '283A2806.jpg',
   },
   {
     category: 'SMOOTHIE',
@@ -1589,7 +1589,7 @@ const jubbaData = [
     category: 'SMOOTHIE',
     item: 'Smoothie passion fruit',
     price: 3,
-    image: '283A2806.JPG',
+    image: '283A2806.jpg',
   },
   {
     category: 'SMOOTHIE',
@@ -1613,13 +1613,13 @@ const jubbaData = [
     category: 'SMOOTHIE',
     item: 'Smoothie peach',
     price: 3,
-    image: '283A2806.JPG',
+    image: '283A2806.jpg',
   },
   {
     category: 'SMOOTHIE',
     item: 'Smoothie Mango',
     price: 3,
-    image: '283A2806.JPG',
+    image: '283A2806.jpg',
   },
   {
     category: 'FRAPPE',
@@ -1649,7 +1649,7 @@ const jubbaData = [
     category: 'FRAPPE',
     item: 'Lotus Frape',
     price: 3,
-    image: '283A2841.JPG',
+    image: '283A2841.jpg',
   },
   {
     category: 'MOJITO',
@@ -1751,7 +1751,7 @@ const jubbaData = [
     category: 'Milk SHAKE',
     item: 'Louts milk shake',
     price: 4,
-    image: '283A2764.JPG',
+    image: '283A2764.jpg',
   },
   {
     category: 'Milk SHAKE',
@@ -1787,7 +1787,7 @@ const jubbaData = [
     category: 'Hot Coffee',
     item: 'Espresso affogato',
     price: 2,
-    image: '283A2919.JPG',
+    image: '283A2919.jpg',
   },
   {
     category: 'Hot Coffee',
@@ -1829,7 +1829,7 @@ const jubbaData = [
     category: 'Hot Coffee',
     item: 'Chocolate latte',
     price: 2,
-    image: '283A2922.JPG',
+    image: '283A2922.jpg',
   },
   {
     category: 'Hot Coffee',
@@ -1919,7 +1919,7 @@ const jubbaData = [
     category: 'Limon',
     item: 'Limon Blueberry',
     price: 3,
-    image: '283A2787.JPG',
+    image: '283A2787.jpg',
   },
   {
     category: 'Limon',
