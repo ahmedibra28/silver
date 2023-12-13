@@ -60,7 +60,7 @@ export default async function Home() {
       img: imageUrl('283A2759.JPG'),
     },
     {
-      label: 'LIMON',
+      label: 'LEMONADE',
       img: imageUrl('283A2792 (1).JPG'),
     },
     {
