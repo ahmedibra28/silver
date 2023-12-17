@@ -346,6 +346,13 @@ const data = [
     category: 'I LOVE PASTA',
     item: 'Penne alfredo ',
     price: 10,
+    image: '283A9953.JPG',
+    description: '',
+  },
+  {
+    category: 'I LOVE PASTA',
+    item: 'Pasta',
+    price: 10,
     image: 'DSC09482.JPG',
     description: 'Penne pasta in creamy mushroom sauce, chicken and garlic',
   },
@@ -370,6 +377,13 @@ const data = [
     item: 'lasagna',
     price: 10,
     image: 'Copy of DSC09508.JPG',
+  },
+  {
+    category: 'LUNCH AND DINNER HOUSE SPECIALITIES',
+    item: 'Rice ',
+    price: 10,
+    image: 'Copy of DSC09563.JPG',
+    description: '',
   },
   {
     category: 'LUNCH AND DINNER HOUSE SPECIALITIES',
@@ -731,7 +745,7 @@ const data = [
     category: 'INDIAN CUISINE',
     item: 'Indian chapati',
     price: 1,
-    image: 'Copy of DSC09451.JPG',
+    image: 'Copy of DSC09445.JPG',
     description:
       'Flour mixed salt and sugar Triangle shaped flatbread made from wheat flour and cooked in a pan',
   },
@@ -765,6 +779,79 @@ const data = [
     image: 'Copy of DSC09382.JPG',
     description:
       'Plater consisting of six types of mixed kebabs including two banjara kebabs,and two malai tikka , two fish tikka, Two Peri Peri Chicken Tikka, Two Mutton Kebab and ,Two Piece Kalmi Kebab Legs…all time your favorite',
+  },
+
+  {
+    category: 'INDIAN CUISINE',
+    item: 'Chicken Nawabi curry',
+    price: 8,
+    image: 'DSC00034.jpg',
+    description:
+      'chicken drumstick, is made with a blend of spices, yogurt, and cream, resulting in a creamy and indulgent sauce. The chicken is marinated in a mixture of spices and yogurt, then cooked in a tomato-based gravy..',
+  },
+  {
+    category: 'INDIAN CUISINE',
+    item: 'Mutton Lababdar',
+    price: 8,
+    image: 'DSC00028.jpg',
+    description:
+      'Mutton pieces red yellow bell pepper grated cheese are used in the gravy and  topped while serving rich tomato onion based grevy…',
+  },
+  {
+    category: 'INDIAN CUISINE',
+    item: 'Chicken Banjara Kabab',
+    price: 8,
+    image: 'DSC00019.jpg',
+    description:
+      'marinated chicken pieces cooked on skewers. The chicken is marinated in a flavorful mixture of yogurt, spices, and herbs, which gives it a tangy and spicy taste. The kababs are then grilled or cooked in a tandoor until they are juicy and tender',
+  },
+  {
+    category: 'INDIAN CUISINE',
+    item: 'Peri Peri  Chicken',
+    price: 8,
+    image: 'DSC00015.jpg',
+    description:
+      'chicken drumsticks mix Indian spices . Ginger garlic peri peri sauce .spicy, grilled to juicy perfection in the oven.make great appetizers…',
+  },
+  {
+    category: 'INDIAN CUISINE',
+    item: 'Chicken rara',
+    price: 8,
+    image: '283A9902.jpg',
+    description:
+      'Tender pieces of chicken get cooked with minced boneless chicken. Its gravy deep flavor. It has a spicy and tangy taste. You should definitely try this murgh rara dish…',
+  },
+  {
+    category: 'INDIAN CUISINE',
+    item: 'Chicken rosali  kabab ',
+    price: 8,
+    image: '283A9817.jpg',
+    description:
+      'Chicken rosali kabab is a popular Indian appetizer made with minced chicken, spices, and herbs. The kababs are shaped into rolls and cooked until golden and crispy. Chef special.',
+  },
+  {
+    category: 'INDIAN CUISINE',
+    item: 'Chicken seekh kabab',
+    price: 8,
+    image: '283A9801.jpg',
+    description:
+      'boneless chicken grinding  mixer fine  paste spices and ginger, garlic, green chilies, onions, grilled tanduri… ',
+  },
+  {
+    category: 'INDIAN CUISINE',
+    item: 'Mutton seekh kabab ',
+    price: 8,
+    image: '283A9791.jpg',
+    description:
+      'Mutton boneless Grind mutton coarsely; add egg, cumin powder, red chilli powder, paprika, white pepper, salt and oil. Cheese grilled all time your favorite..',
+  },
+  {
+    category: 'INDIAN CUISINE',
+    item: 'Reshmi Kabab',
+    price: 8,
+    image: 'Copy of DSC09400.JPG',
+    description:
+      'Recipe for chicken reshmi kaba chicken breast 6 pic and marinated yogurt, salt.sugur,and Indian spices ginger garlic paste and egg white sarv with sugar syrup',
   },
 
   {
@@ -1374,73 +1461,67 @@ const jubbaData = [
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Vanilla cake (eggs)',
     price: 3,
-    image: '283A2958.JPG',
+    image: '283A9811.jpg',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Plain croissant. (eggs)',
     price: 2,
-    image: '1I6A3062.JPG',
+    image: '283A9876.jpg',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Cinnamon $ raisin roll.',
     price: 3,
-    image: '1I6A3058.JPG',
+    image: '283A9887.jpg',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Chocolate croissant.',
     price: 3,
-    image: '1I6A3054.JPG',
+    image: '283A9878.jpg',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Black forest gateau (egg)',
     price: 3,
-    image: '283A2944.JPG',
+    image: '283A9821.jpg',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'White forest gateau. (egg)',
     price: 3,
-    image: '283A2951.JPG',
+    image: '283A9827.jpg',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Lotus cheese cake',
     price: 4,
-    image: '283A2952.JPG',
+    image: '283A9870.jpg',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Tiramisu cheese cake.',
     price: 4,
-    image: '1I6A2999.JPG',
-  },
-  {
-    category: 'PASTRIES CAKES AND DESSERTS',
-    item: 'Date cake eggless.',
-    price: 4,
-    image: '1I6A3085.JPG',
+    image: '283A9865.jpg',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Strawberry cake (eggless)',
     price: 3,
-    image: '283A2948.JPG',
+    image: '283A9843.jpg',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Marble cake.(eggs)',
     price: 4,
-    image: '1I6A3045.JPG',
+    image: '283A9855.JPG',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Black magic',
     price: 3,
-    image: '1I6A3050.JPG',
+    image: '283A9850.jpg',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
@@ -1464,7 +1545,7 @@ const jubbaData = [
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Small doughnuts',
     price: 1,
-    image: '1I6A3019.JPG',
+    image: '283A9889.JPG',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
@@ -1476,19 +1557,19 @@ const jubbaData = [
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Carmel cake',
     price: 3,
-    image: '283A2938.JPG',
+    image: '283A9807.jpg',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Strawberry  cheese cake ',
     price: 3,
-    image: '283A2955.JPG',
+    image: '283A9836.jpg',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Chocolate Cake',
     price: 3,
-    image: '283A2942.JPG',
+    image: '283A9860.jpg',
   },
   {
     category: 'ICED LATTES',
@@ -1788,7 +1869,7 @@ const jubbaData = [
     category: 'Hot Coffee',
     item: 'Espresso',
     price: 2,
-    image: '283A2892.JPG',
+    image: '283A9785.jpg',
   },
   {
     category: 'Hot Coffee',
@@ -1824,7 +1905,7 @@ const jubbaData = [
     category: 'Hot Coffee',
     item: 'Cappuccino',
     price: 2,
-    image: '283A2894.JPG',
+    image: '283A9797.jpg',
   },
   {
     category: 'Hot Coffee',
