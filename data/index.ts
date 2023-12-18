@@ -1916,25 +1916,25 @@ const jubbaData = [
   {
     category: 'Hot Coffee',
     item: 'Vanilla latte',
-    price: 2,
+    price: 2.5,
     image: '283A2924.JPG',
   },
   {
     category: 'Hot Coffee',
     item: 'Caremeal latte',
-    price: 2,
+    price: 2.5,
     image: '283A2924.JPG',
   },
   {
     category: 'Hot Coffee',
     item: 'Chocolate latte',
-    price: 2,
+    price: 2.5,
     image: '283A2922.jpg',
   },
   {
     category: 'Hot Coffee',
     item: 'Hazelnut latte',
-    price: 2,
+    price: 2.5,
     image: '283A2924.JPG',
   },
   {
