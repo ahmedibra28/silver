@@ -1,7 +1,6 @@
 import Link from 'next/link'
 import Category from '@/components/Category'
 import BlurImage from '@/components/BlurImage'
-import { getCategoriesJubba } from '@/data'
 
 export default async function Home() {
   const slugGenerator = (text: string) => {
@@ -44,7 +43,7 @@ export default async function Home() {
       img: imageUrl('283A2792 (1).JPG'),
     },
     {
-      label: 'ICED LATTE',
+      label: 'ICED LATTES',
       img: imageUrl('1I6A3069.JPG'),
     },
   ]
