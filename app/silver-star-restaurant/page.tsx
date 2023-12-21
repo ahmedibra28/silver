@@ -17,11 +17,11 @@ export default async function Home() {
     },
     {
       label: 'SOMALI BREAKFAST',
-      img: imageUrl('283A2082.JPG'),
+      img: imageUrl('283A2085.JPG'),
     },
     {
       label: 'SIDES',
-      img: imageUrl('salsa.jpg'),
+      img: imageUrl('salsa2.jpg'),
     },
     {
       label: 'SOUPS',
@@ -33,7 +33,7 @@ export default async function Home() {
     },
     {
       label: 'QUICK BITS AND SAVORY SNACKS',
-      img: imageUrl('283A2064.JPG'),
+      img: imageUrl('283A2065.JPG'),
     },
     {
       label: 'I LOVE PASTA',
@@ -61,7 +61,7 @@ export default async function Home() {
     },
     {
       label: 'LEMONADE',
-      img: imageUrl('283A2792 (1).JPG'),
+      img: imageUrl('283A2792.JPG'),
     },
     {
       label: 'SMOOTHIE',

@@ -40,7 +40,7 @@ export default async function Home() {
     },
     {
       label: 'LEMONADE',
-      img: imageUrl('283A2792 (1).JPG'),
+      img: imageUrl('283A2792.JPG'),
     },
     {
       label: 'ICED LATTES',

@@ -353,7 +353,7 @@ const data = [
     category: 'I LOVE PASTA',
     item: 'Pasta',
     price: 10,
-    image: 'DSC09482.JPG',
+    image: '283A9953.JPG',
     description: 'Penne pasta in creamy mushroom sauce, chicken and garlic',
   },
   {
@@ -376,7 +376,7 @@ const data = [
     category: 'I LOVE PASTA',
     item: 'lasagna',
     price: 10,
-    image: 'Copy of DSC09508.JPG',
+    image: '283A9880.JPG',
   },
   {
     category: 'LUNCH AND DINNER HOUSE SPECIALITIES',
@@ -745,7 +745,7 @@ const data = [
     category: 'INDIAN CUISINE',
     item: 'Indian chapati',
     price: 1,
-    image: 'Copy of DSC09445.JPG',
+    image: 'Copy of DSC09451.JPG',
     description:
       'Flour mixed salt and sugar Triangle shaped flatbread made from wheat flour and cooked in a pan',
   },
