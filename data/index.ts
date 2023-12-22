@@ -318,7 +318,7 @@ const data = [
     category: 'ARABIC CUISINE',
     item: 'Falafel',
     price: 4,
-    image: '1I6A3030.JPG',
+    image: 'Falafel.webp',
     description: 'chick pees, garlic, oil, paprika, tahinna, deep fried.',
   },
   {
@@ -381,7 +381,7 @@ const data = [
   {
     category: 'LUNCH AND DINNER HOUSE SPECIALITIES',
     item: 'Rice ',
-    price: 10,
+    price: 1,
     image: 'Copy of DSC09563.JPG',
     description: '',
   },
@@ -1438,7 +1438,7 @@ const data = [
   },
   {
     category: 'Lemonade',
-    item: 'Pine Apple Sangria Lemonade',
+    item: 'Pineapple Sangria Lemonade',
     price: 3,
     image: '283A2773.JPG',
   },
@@ -1450,7 +1450,7 @@ const data = [
   },
   {
     category: 'Lemonade',
-    item: 'pine Apple Sangria Lemonade',
+    item: 'pineapple Sangria Lemonade',
     price: 3,
     image: '283A2801.JPG',
   },
@@ -1515,7 +1515,7 @@ const jubbaData = [
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Marble cake.(eggs)',
     price: 4,
-    image: '283A9855.JPG',
+    image: '1I6A3045.JPG',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
@@ -1545,13 +1545,13 @@ const jubbaData = [
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Small doughnuts',
     price: 1,
-    image: '283A9889.JPG',
+    image: '1I6A3039.JPG',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Big doughnuts',
     price: 2,
-    image: '1I6A3039.JPG',
+    image: '1I6A3019.JPG',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
@@ -1563,13 +1563,13 @@ const jubbaData = [
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Strawberry  cheese cake ',
     price: 3,
-    image: '283A9836.jpg',
+    image: '283A9860.jpg',
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Chocolate Cake',
     price: 3,
-    image: '283A9860.jpg',
+    image: '283A9836.jpg',
   },
   {
     category: 'ICED LATTES',
@@ -1718,31 +1718,31 @@ const jubbaData = [
   {
     category: 'FRAPPE',
     item: 'Silver frappe',
-    price: 3,
+    price: 4,
     image: '283A2826.JPG',
   },
   {
     category: 'FRAPPE',
     item: 'Caremeal frappe',
-    price: 3,
+    price: 4,
     image: '283A2829.JPG',
   },
   {
     category: 'FRAPPE',
     item: 'Chocolate frappe',
-    price: 3,
+    price: 4,
     image: '283A2851.JPG',
   },
   {
     category: 'FRAPPE',
     item: 'Vanilla frappe',
-    price: 3,
+    price: 4,
     image: '283A2847.JPG',
   },
   {
     category: 'FRAPPE',
     item: 'Lotus Frape',
-    price: 3,
+    price: 4,
     image: '283A2841.jpg',
   },
   {
@@ -1910,7 +1910,7 @@ const jubbaData = [
   {
     category: 'Hot Coffee',
     item: 'Latte',
-    price: 2,
+    price: 2.5,
     image: '283A2931.JPG',
   },
   {
@@ -1940,55 +1940,55 @@ const jubbaData = [
   {
     category: 'Hot Coffee',
     item: 'Cinnamon latte',
-    price: 2,
+    price: 2.5,
     image: '283A2921.JPG',
   },
   {
     category: 'Hot Coffee',
     item: 'Toffee nut latte',
-    price: 2,
+    price: 2.5,
     image: '283A2931.JPG',
   },
   {
     category: 'Hot Coffee',
     item: 'Cookie latte',
-    price: 2,
+    price: 2.5,
     image: '283A2931.JPG',
   },
   {
     category: 'Hot Coffee',
     item: 'Lotus latte',
-    price: 2,
+    price: 2.5,
     image: '283A2937.JPG',
   },
   {
     category: 'Hot Coffee',
     item: 'Popcorn latte',
-    price: 2,
+    price: 2.5,
     image: '283A2931.JPG',
   },
   {
     category: 'Hot Coffee',
     item: 'Spanish latte',
-    price: 2,
+    price: 2.5,
     image: '283A2921.JPG',
   },
   {
     category: 'Hot Coffee',
     item: 'Pistachio latte',
-    price: 2,
+    price: 2.5,
     image: '283A2924.JPG',
   },
   {
     category: 'Hot Coffee',
     item: 'White mocha latte',
-    price: 2,
+    price: 2.5,
     image: '283A2921.JPG',
   },
   {
     category: 'Hot Coffee',
     item: 'Caremeal macchiato latte',
-    price: 2,
+    price: 2.5,
     image: '283A2928.JPG',
   },
   {
@@ -2035,7 +2035,7 @@ const jubbaData = [
   },
   {
     category: 'Lemonade',
-    item: 'Pine Apple Lemonade',
+    item: 'Pineapple Lemonade',
     price: 3,
     image: '283A2773.JPG',
   },
@@ -2047,7 +2047,7 @@ const jubbaData = [
   },
   {
     category: 'Lemonade',
-    item: 'pine Apple Sangria Lemonade',
+    item: 'pineapple Sangria Lemonade',
     price: 3,
     image: '283A2801.JPG',
   },
