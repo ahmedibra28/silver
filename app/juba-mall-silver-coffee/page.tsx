@@ -68,9 +68,10 @@ export default async function Home() {
         {images.map((category, i: number) => (
           <div key={i} className='w-[48%] md:w-[30%] lg:w-[19%] mx-auto'>
             <Link
-              href={`/juba-mall-silver-coffee/items#${slugGenerator(
-                category.label,
-              )}`}
+              // href={`/juba-mall-silver-coffee/items#${slugGenerator(
+              //   category.label,
+              // )}`}
+              href={`/juba-mall-silver-coffee/${slugGenerator(category.label)}`}
             >
               <Category category={category} />
             </Link>

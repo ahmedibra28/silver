@@ -2,18 +2,18 @@ import BlurImage from '@/components/BlurImage'
 import React from 'react'
 
 interface ItemProp {
-  category: string
-  item: string
-  price: number
-  image?: string
-  size?: string
+  category?: string
+  item?: string
+  price?: number
+  image?: any | string
+  size?: any | string
   description?: string
 }
 const Item = ({ item }: { item: ItemProp }) => {
   const hasInNumber = item?.size && /\d/.test(item?.size)
 
   const newPriceFormat = hasInNumber
-    ? item?.size?.split(' ')?.map((item) => {
+    ? item?.size?.split(' ')?.map((item: string) => {
         const s = item?.split('-')[0]
         const p = item?.split('-')[1]
         const f = `${s} - $${parseInt(p).toFixed(2)}`
@@ -28,7 +28,7 @@ const Item = ({ item }: { item: ItemProp }) => {
       <figure className='w-[35%] bg-red-200s rounded-xl rounded-tr-none rounded-br-none'>
         <BlurImage
           src={item?.image || noImageAvailable}
-          alt={item.item}
+          alt={item?.item!}
           width={500}
           height={500}
           className='rounded-xl w-36 h-36 md:w-44 md:h-44 object-cover p-2'
@@ -39,7 +39,9 @@ const Item = ({ item }: { item: ItemProp }) => {
         <p className='font-bold text-sm'>
           {typeof newPriceFormat === 'number'
             ? `$${newPriceFormat}`
-            : newPriceFormat?.map((item) => <span key={item}> {item} </span>)}
+            : newPriceFormat?.map((item: string) => (
+                <span key={item}> {item} </span>
+              ))}
         </p>
         <p className='text-xs'>{item?.description}</p>
       </div>

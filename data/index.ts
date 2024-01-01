@@ -182,7 +182,7 @@ const data = [
     category: 'SALADS',
     item: 'Fresh garden salad',
     price: 5,
-    image: '283A9858.jpg',
+    image: '283A2187.JPG',
     description:
       'Assorted farm fresh salad vegetables with bread and salad dressing,',
   },
@@ -283,14 +283,14 @@ const data = [
     category: 'ARABIC CUISINE',
     item: 'Fajita chicken',
     price: 6,
-    image: '283A2187.JPG',
+    image: 'logo.png',
     description: 'fajita, cheese,vegetables',
   },
   {
     category: 'ARABIC CUISINE',
     item: 'Scallop',
     price: 6,
-    image: 'Copy of DSC09540.JPG',
+    image: 'logo.png',
     description: 'Fish or Chicken ( brea crumbed, deep fried, vegetables)',
   },
   {
@@ -346,7 +346,7 @@ const data = [
     category: 'I LOVE PASTA',
     item: 'Penne alfredo ',
     price: 10,
-    image: '283A9953.JPG',
+    image: 'poster week (6).png',
     description: '',
   },
   {
@@ -360,7 +360,7 @@ const data = [
     category: 'I LOVE PASTA',
     item: 'Fruiti de’ mare',
     price: 12,
-    image: '1I6A9846.JPG',
+    image: 'logo.png',
     description:
       'Linguine pasta in mixed seafood of lobster, shrimps calamari and fish, with a touch of chilli',
   },
@@ -499,7 +499,7 @@ const data = [
     category: 'BURGERS AND SANDWICHES',
     item: 'Philadelphia cheese steak sandwich with chips',
     price: 6,
-    image: 'original DSC09512.JPG',
+    image: 'logo.png',
     description:
       'Fajita beef, cream cheese and cheddar cheese on ciabatta crostini',
   },
@@ -749,18 +749,10 @@ const data = [
     description:
       'Flour mixed salt and sugar Triangle shaped flatbread made from wheat flour and cooked in a pan',
   },
-
-  {
-    category: 'INDIAN CUISINE',
-    item: 'Reshmi Kabab',
-    price: 8,
-    image: 'Copy of DSC09400.JPG',
-    description: 'Recipe for chicken reshmi kaba',
-  },
   {
     category: 'INDIAN CUISINE',
     item: 'Silver mixed tandoori Platter',
-    price: 10,
+    price: 20,
     image: 'Copy of DSC09389.JPG',
     description:
       'chicken breast 6 pic and marinated yogurt, salt.sugur,and Indian spices ginger garlic paste    and egg white sarv with sugar syrup',
@@ -1055,7 +1047,7 @@ const data = [
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Ice toffee nut latte',
-    price: 3,
+    price: 2.5,
     image: '1I6A3071.JPG',
   },
   {
@@ -1652,7 +1644,7 @@ const jubbaData = [
   {
     category: 'ICED LATTES',
     item: 'Ice toffee nut latte',
-    price: 3,
+    price: 2.5,
     image: '1I6A3071.JPG',
   },
   {

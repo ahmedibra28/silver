@@ -111,9 +111,7 @@ export default async function Home() {
         {images.map((category, i: number) => (
           <div key={i} className='w-[48%] md:w-[30%] lg:w-[19%] mx-auto'>
             <Link
-              href={`/silver-star-restaurant/items#${slugGenerator(
-                category.label,
-              )}`}
+              href={`/silver-star-restaurant/${slugGenerator(category.label)}`}
             >
               <Category category={category} />
             </Link>
