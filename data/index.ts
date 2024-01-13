@@ -986,7 +986,7 @@ const data = [
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
-    item: 'Ice Caremeal latte',
+    item: 'Ice Caramel latte',
     price: 2.5,
     image: '1I6A3079.JPG',
   },
@@ -1228,7 +1228,7 @@ const data = [
     category: 'milk shake',
     item: 'Silver milk shake',
     price: 4,
-    image: '283A2780.JPG',
+    image: '283A2753.JPG',
   },
   {
     category: 'milk shake',
@@ -1316,7 +1316,7 @@ const data = [
   },
   {
     category: 'Hot Coffee',
-    item: 'Caremeal latte',
+    item: 'Caramel latte',
     price: 2.5,
     image: '283A2924.JPG',
   },
@@ -1382,7 +1382,7 @@ const data = [
   },
   {
     category: 'Hot Coffee',
-    item: 'Caremeal macchiato latte',
+    item: 'Caramel macchiato latte',
     price: 2.5,
     image: '283A2928.JPG',
   },
@@ -1583,7 +1583,7 @@ const jubbaData = [
   },
   {
     category: 'ICED LATTES',
-    item: 'Ice Caremeal latte',
+    item: 'Ice Caramel latte',
     price: 2.5,
     image: '1I6A3079.JPG',
   },
@@ -1825,7 +1825,7 @@ const jubbaData = [
     category: 'Milk SHAKE',
     item: 'Silver milk shake',
     price: 4,
-    image: '283A2880.JPG',
+    image: '283A2753.JPG',
   },
   {
     category: 'Milk SHAKE',
@@ -1913,7 +1913,7 @@ const jubbaData = [
   },
   {
     category: 'Hot Coffee',
-    item: 'Caremeal latte',
+    item: 'Caramel latte',
     price: 2.5,
     image: '283A2924.JPG',
   },
@@ -1979,7 +1979,7 @@ const jubbaData = [
   },
   {
     category: 'Hot Coffee',
-    item: 'Caremeal macchiato latte',
+    item: 'Caramel macchiato latte',
     price: 2.5,
     image: '283A2928.JPG',
   },
