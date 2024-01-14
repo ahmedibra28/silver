@@ -1519,7 +1519,7 @@ const jubbaData = [
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Cup cakes – vanilla, chocolate, strawbwrry.',
     price: 1.5,
-    image: '1I6A3045.JPG',
+    image: '1I6A3013.JPG',
   },
   {
     category: 'ICED LATTES',
@@ -1529,7 +1529,7 @@ const jubbaData = [
   },
   {
     category: 'PASTRIES CAKES AND DESSERTS',
-    item: 'Apple pie',
+    item: 'Swiss roll',
     price: 4,
     image: '1I6A3030.JPG',
   },
