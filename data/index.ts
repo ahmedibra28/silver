@@ -67,28 +67,28 @@ const data = [
     description: 'Whole healthy oats boiled with milk',
   },
   {
-    category: 'SOMALI BREAKFAST',
+    category: 'BREAKFAST',
     item: 'Pancakes',
     price: 3,
     image: '283A9844.JPG',
     description: 'Plain american pancake served with fruits and cream',
   },
   {
-    category: 'SOMALI BREAKFAST',
+    category: 'BREAKFAST',
     item: 'Pancakes',
     price: 3,
     image: '283A9846.JPG',
     description: 'Chocolate american pancake served with fruits and cream',
   },
   {
-    category: 'SOMALI BREAKFAST',
+    category: 'BREAKFAST',
     item: 'Pancakes',
     price: 3,
     image: '283A9844.JPG',
     description: 'Caramel american pancake served with fruits and cream',
   },
   {
-    category: 'SOMALI BREAKFAST',
+    category: 'BREAKFAST',
     item: 'Home fries heaven',
     price: 4,
     image: '283A2074.JPG',
@@ -182,7 +182,7 @@ const data = [
     category: 'SALADS',
     item: 'Fresh garden salad',
     price: 5,
-    image: '283A2187.JPG',
+    image: '1I6A9858.JPG',
     description:
       'Assorted farm fresh salad vegetables with bread and salad dressing,',
   },
@@ -467,7 +467,7 @@ const data = [
     category: 'BURGERS AND SANDWICHES',
     item: 'Australian burger ',
     price: 7,
-    image: 'Copy of DSC09529.JPG',
+    image: '283A2147.JPG',
     description:
       'Grilled chicken, beetroot, pineapple, lettuce, tomatoes, and cheddar cheese',
   },
@@ -695,14 +695,6 @@ const data = [
   },
   {
     category: 'INDIAN CUISINE',
-    item: 'Chicken, Mutton, Fish biryani',
-    price: 10,
-    image: 'Copy of DSC09435.JPG',
-    description:
-      'Fresh chicken and aromatic basmati rice Layered, dum cooked with Indian spices garnished with crispy fried onions, served with raita',
-  },
-  {
-    category: 'INDIAN CUISINE',
     item: 'Egg fried rice',
     price: 4,
     image: 'Copy of DSC09489.JPG',
@@ -909,7 +901,7 @@ const data = [
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Marble cake.(eggs)',
-    price: 4,
+    price: 3,
     image: '1I6A3045.JPG',
   },
   {
@@ -1347,13 +1339,13 @@ const data = [
   {
     category: 'Hot Coffee',
     item: 'Cookie latte',
-    price: 2.5,
+    price: 3,
     image: '283A2931.JPG',
   },
   {
     category: 'Hot Coffee',
     item: 'Lotus latte',
-    price: 2.5,
+    price: 3,
     image: '283A2937.JPG',
   },
   {
