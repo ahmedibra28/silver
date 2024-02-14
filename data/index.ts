@@ -1498,7 +1498,7 @@ const jubbaData = [
   {
     category: 'PASTRIES CAKES AND DESSERTS',
     item: 'Marble cake.(eggs)',
-    price: 4,
+    price: 3,
     image: '1I6A3045.JPG',
   },
   {
@@ -1781,7 +1781,7 @@ const jubbaData = [
     category: 'MOJITO',
     item: 'Mojito raspberry',
     price: 3.5,
-    image: '283A2873.JPG',
+    image: '283A2858.JPG',
   },
   {
     category: 'MOJITO',
@@ -1936,13 +1936,13 @@ const jubbaData = [
   {
     category: 'Hot Coffee',
     item: 'Cookie latte',
-    price: 2.5,
+    price: 3,
     image: '283A2931.JPG',
   },
   {
     category: 'Hot Coffee',
     item: 'Lotus latte',
-    price: 2.5,
+    price: 3,
     image: '283A2937.JPG',
   },
   {
